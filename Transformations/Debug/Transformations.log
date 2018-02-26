@@ -1,0 +1,22 @@
+﻿  shapes.cpp
+d:\documentos\visual\p2 transformations\transformations\shapes.cpp(62): warning C4018: '<': no coinciden signed/unsigned
+d:\documentos\visual\p2 transformations\transformations\shapes.cpp(153): warning C4101: 'i': variable local sin referencia
+  math3d.cpp
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(51): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(98): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(99): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(100): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(103): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(105): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(108): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(109): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(110): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(113): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(114): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\documentos\visual\p2 transformations\transformations\math3d.cpp(115): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  camera.cpp
+  main.cpp
+d:\documentos\visual\p2 transformations\src\main.cpp(171): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  Generando código...
+  Transformations.vcxproj -> D:\Documentos\Visual\P2 transformations\Debug\Transformations.exe
